@@ -77,6 +77,8 @@ body {
 
 #backdrop {
     backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    -moz-backdrop-filter: blur(15px);
 }
 
 
